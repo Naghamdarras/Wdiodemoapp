@@ -1,0 +1,19 @@
+﻿{
+    "login": {
+        "validCredentials": {
+            "username": "validuser@example.com",
+            "password": "validpassword123"
+        },
+        "invalidCredentials": {
+            "username": "invaliduser@example.com",
+            "password": "invalidpassword123"
+        }
+    },
+    "signup": {
+        "validUser": {
+            "email": "newuser@example.com",
+            "password": "password123",
+            "confirmPassword": "password123"
+        }
+    }
+}
